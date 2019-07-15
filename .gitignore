@@ -1,0 +1,6 @@
+/.idea/*
+/logs/*
+/**/target/*
+/**.iml
+/small-erp-core/*.iml
+/small-erp-webapp/*.iml
